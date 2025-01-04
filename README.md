@@ -1,5 +1,7 @@
 # Furiosa Betaflight Build Instructions
 
+*Read this in other languages: [Ukrainian](README.uk.md)*
+
 Firmware configuration for Furiosa flight controllers, compatible with Betaflight 4.5.
 
 ## Supported Hardware
